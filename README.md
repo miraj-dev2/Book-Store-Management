@@ -98,7 +98,7 @@ Interactive docs available at:
 |--------|----------|-------------|-------------|
 | `POST` | `/books` | Create a new book | `201 Created` |
 | `GET` | `/books` | Get all books | `200 OK` 
-|  'GET'|'/books?author={name}'|Filter books by author|200 OK
+|  GET  |/books?author={name}|Filter books by author|200 OK
 | `GET` | `/books/{id}` | Get a single book by ID | `200 OK` |
 | `PUT` | `/books/{id}` | Update a book (partial) | `200 OK` |
 | `DELETE` | `/books/{id}` | Delete a book | `204 No Content` |
