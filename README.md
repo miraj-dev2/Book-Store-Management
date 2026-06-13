@@ -1,4 +1,4 @@
-# Book-Store-Management
+# Book Store API
 RESTful Book Store API built with FastAPI and Pydantic
 #  Book Store API
 
